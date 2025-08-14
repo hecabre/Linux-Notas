@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "35e8895b7ea43b11",
+        "id": "3c33c3fec1ebbaa7",
         "type": "tabs",
         "children": [
           {
-            "id": "01466286c8f0cb7b",
+            "id": "e6513c5a3c2b074b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Directorios/Directorios.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Directorios"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -168,7 +164,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "01466286c8f0cb7b",
+  "active": "e6513c5a3c2b074b",
   "lastOpenFiles": [
     "Directorios/Directorios.md",
     "Directorios/tmp.md",
