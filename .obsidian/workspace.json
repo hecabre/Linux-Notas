@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c33c3fec1ebbaa7",
+        "id": "64ff18afb97270c7",
         "type": "tabs",
         "children": [
           {
-            "id": "e6513c5a3c2b074b",
+            "id": "f8e0b528554921c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e6513c5a3c2b074b",
+  "active": "f8e0b528554921c1",
   "lastOpenFiles": [
+    "Directorios/dev.md",
     "Directorios/Directorios.md",
     "Directorios/tmp.md",
     "Directorios/var.md",
@@ -183,7 +184,6 @@
     "Directorios/lib.md",
     "Directorios/bin.md",
     "Comandos/CHATTR.md",
-    "Directorios/dev.md",
     "Directorios/sbin.md",
     "Comandos/PWD.md",
     "Permisos/SGUID.md",
