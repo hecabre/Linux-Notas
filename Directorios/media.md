@@ -1,0 +1,1 @@
+Representa el punto de montaje de todos los volumenes logicos que se montan temporalmente.

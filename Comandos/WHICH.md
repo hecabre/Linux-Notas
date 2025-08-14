@@ -1,0 +1,1 @@
+Te dice en que ruta se encuentra algún programa, no funciona con directorios o archivos.

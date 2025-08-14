@@ -1,0 +1,1 @@
+Contiene información de los procesos que se están ejecutando en un momento determinado en el sistema, pero no guarda nada como tal, son archivos virtuales. Son listas de eventos que no existen, solo al acceder a ellos.

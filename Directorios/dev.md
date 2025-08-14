@@ -1,0 +1,1 @@
+Incluye todos los dispositivos de almacenamiento en forma de archivos conectados al sistema.

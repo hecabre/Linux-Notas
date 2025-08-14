@@ -1,0 +1,1 @@
+Al igual que [[proc]] contiene archivos virtuales, pero tambien da eventos del kernel.

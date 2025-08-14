@@ -1,0 +1,15 @@
+Los comandos ejecutan cosas papito:
+- [[CHOWN]] Cambia el propietario de un directorio o archivo, tambien puede cambiar quien creo el archivo o directorio.
+- [[PWD]] Te dice donde estas.
+- [[CHMOD]] Da [[Permisos]] a una carpeta o archivo.
+- [[USERADD]] Crea un usuario.
+- [[USERMOD]] Damos un rol a un usuario.
+- [[WHOAMI]] Nos dice que usuario somos.
+- [[GROUPADD]] Creacion de grupos.
+- [[CP]] Nos permite copiar un archivo.
+- [[DUMP]] Crea una copia de seguridad.
+- [[WHICH]] Te da la ruta de un programa.
+- [[XARGS]] Nos permite tratar el input.
+- [[FIND]] Nos permite buscar archivos con ciertos privilegios.
+- [[GETCAP]] Nos muestra las [[Capabilities]].
+- [[SETCAP]] Nos permite agregar [[Capabilities]].

@@ -1,0 +1,1 @@
+Almacenar archivos y directorios relativos a servidores que tengamos instalados, ya sea web, ftp.

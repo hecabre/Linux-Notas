@@ -1,0 +1,1 @@
+Hace lo mismo que [[bin]] pero para binarios de tareas propias del sistema operativo y solamente pueden ser gestionadas por root, el arranque, reparacion, etc.

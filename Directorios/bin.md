@@ -1,0 +1,1 @@
+Es un directorio estatico y es donde se almacenan los binarios necesarios para garantizar las funciones basicas a nivel de usuario, solo almacena los binarios a nivel de USUARIO, los binarios necesarios para tareas administrativas para root, se encuentran en [[sbin]].

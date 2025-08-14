@@ -1,0 +1,2 @@
+Incluye las bibliotecas escenciales que son necesarias para que se ejecuten los binarios que se encuentren en /[[bin]] y /[[sbin]] asi como los modulos del kernel.
+En los sistemas operativos de 64 bits,existe /[[lib64]]

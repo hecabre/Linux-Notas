@@ -1,0 +1,1 @@
+Es el directorio que tiene cada usuario, también incluye archivos temporales de aplicaciones ejecutadas en modo usuario que sirven para guardar la configuraciones.

@@ -1,0 +1,1 @@
+Nos permite agregar las capabilities que queramos a un archivo, debe de ser el binario, no un link simbolico o de lo contrario no podrá asignarlas.

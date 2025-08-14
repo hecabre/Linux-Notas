@@ -1,0 +1,1 @@
+Es un [[Permisos Especiales]] el cual basicamente nos permite usar la bandera del [[CHATTR]] la que es s. Hace que podamos usar el programa con permisos de root aunque seamos un usuario normal, sin root.

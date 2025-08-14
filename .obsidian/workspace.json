@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "c65cc2fba3971799",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e8895b7ea43b11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01466286c8f0cb7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c088dd4aa30757c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a8319d35d8432d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a36f22d41d8d7218",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "37d37007422f309e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b70c73aa8d844b7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bf5077f79fb6bf93",
+    "type": "split",
+    "children": [
+      {
+        "id": "17cca826f832d181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac429ad5add66c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Comandos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Comandos"
+            }
+          },
+          {
+            "id": "6233dfe82d767dcd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Comandos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Comandos"
+            }
+          },
+          {
+            "id": "7bd95c5a71688f3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "9f666b394f376c9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Comandos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Comandos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a36f22d41d8d7218",
+  "lastOpenFiles": [
+    "Directorios/Directorios.md",
+    "Directorios/tmp.md",
+    "Directorios/var.md",
+    "Directorios/usr.md",
+    "Directorios/etc.md",
+    "Directorios/sys.md",
+    "Directorios/srv.md",
+    "Directorios/boot.md",
+    "Directorios/root.md",
+    "Directorios/home.md",
+    "Directorios/media.md",
+    "Directorios/lib64.md",
+    "Directorios/proc.md",
+    "Directorios/opt.md",
+    "Directorios/lib.md",
+    "Directorios/bin.md",
+    "Comandos/CHATTR.md",
+    "Directorios/dev.md",
+    "Directorios/sbin.md",
+    "Comandos/PWD.md",
+    "Permisos/SGUID.md",
+    "Permisos",
+    "Comandos/FIND.md",
+    "Comandos",
+    "Directorios",
+    "Comandos/CHOWN.md",
+    "Comandos/Comandos.md",
+    "Comandos/GETCAP.md",
+    "Comandos/SETCAP.md",
+    "Sin título.canvas"
+  ]
+}

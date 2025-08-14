@@ -1,0 +1,1 @@
+Es el encargado de guardar los archivos de configuración a nivel de componentes del sistema operativo como los programas instalados después, solo tiene configuración y no hay binarios.

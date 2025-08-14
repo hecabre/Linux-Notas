@@ -1,0 +1,1 @@
+Los grupos son como una categoria a la cual le podemos dar permisos para ejecutar algo.

@@ -1,0 +1,1 @@
+Nos permite ver los [[Permisos Especiales]] que posee un archivo o un directorio
