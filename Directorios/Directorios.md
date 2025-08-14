@@ -1,4 +1,5 @@
 #### Los directorios son carpetas como en Windows, se organiza dentro de un arbol de directorios llamado Jerarquia del sistema de archivos.
+Cambios de prueba.
 El directorio raiz o /:
 - Es el inicio de todo
 - No hay "C:" como en Windows, el "C:" es /.

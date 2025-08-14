@@ -11,10 +11,14 @@
             "id": "01466286c8f0cb7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Directorios/Directorios.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Directorios"
             }
           }
         ]
@@ -164,7 +168,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a36f22d41d8d7218",
+  "active": "01466286c8f0cb7b",
   "lastOpenFiles": [
     "Directorios/Directorios.md",
     "Directorios/tmp.md",
