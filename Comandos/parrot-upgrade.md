@@ -1,0 +1,1 @@
+ES para hacer actualizaciones en parrot para no usar apt upgrade.

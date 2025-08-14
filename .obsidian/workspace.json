@@ -185,8 +185,10 @@
   },
   "active": "b53c2e2bbb53503b",
   "lastOpenFiles": [
-    "Directorios/Directorios Ocultos.md",
+    "Comandos/parrot-upgrade.md",
+    "Comandos/Comandos.md",
     "Directorios/bashrc.md",
+    "Directorios/Directorios Ocultos.md",
     "Directorios/dev.md",
     "Directorios/Directorios.md",
     "Directorios/tmp.md",
@@ -212,8 +214,6 @@
     "Comandos/FIND.md",
     "Comandos",
     "Directorios",
-    "Comandos/CHOWN.md",
-    "Comandos/Comandos.md",
     "Sin título.canvas"
   ]
 }

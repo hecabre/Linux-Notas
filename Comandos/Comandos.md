@@ -13,3 +13,4 @@ Los comandos ejecutan cosas papito:
 - [[FIND]] Nos permite buscar archivos con ciertos privilegios.
 - [[GETCAP]] Nos muestra las [[Capabilities]].
 - [[SETCAP]] Nos permite agregar [[Capabilities]].
+- [[parrot-upgrade]] USAR PARA ACTUALIZAR.
