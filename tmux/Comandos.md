@@ -1,0 +1,3 @@
+- `tmux attach -t "nombre sesion"` Nos permite meternos a una sesion creada por su nombre
+- `tmux ls` Nos lista las sesiones que existen en tmux
+- `tmux kill-server` Mata todas las sesiones abiertas de tmux.
