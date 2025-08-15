@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "64ff18afb97270c7",
+        "id": "c0f279ad1ab661c5",
         "type": "tabs",
         "children": [
           {
-            "id": "f8e0b528554921c1",
+            "id": "8447f2181dbc45ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Directorios/Directorios Ocultos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Directorios Ocultos"
-            }
-          },
-          {
-            "id": "b53c2e2bbb53503b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Directorios/bashrc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bashrc"
-            }
-          },
-          {
-            "id": "65f7a580d3022af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmux/tmux.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tmux"
-            }
-          },
-          {
-            "id": "2ed05e9f82d4f881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmux/tmux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tmux"
-            }
-          },
-          {
-            "id": "5b71684f1f94051b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comandos/FIND.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FIND"
-            }
-          },
-          {
-            "id": "51b47ab75fae64da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comandos/TAIL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TAIL"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,18 +164,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "51b47ab75fae64da",
+  "active": "8447f2181dbc45ee",
   "lastOpenFiles": [
+    "bash/Instrucciones.md",
+    "bash/if.md",
+    "Ejercicios/Bash Ejercicio 1.md",
+    "Ejercicios/Bash Ejercicio 2.md",
+    "Ejercicios",
+    "Sin nombre 1",
+    "bash/while.md",
+    "bash/for.md",
+    "Comandos/XARGS.md",
+    "Comandos/READ.md",
     "Comandos/Comandos.md",
+    "Comandos/HOSTNAME.md",
     "Comandos/TAIL.md",
     "Comandos/FIND.md",
-    "tmux/Comandos.md",
     "tmux/tmux.md",
-    "tmux/Modo copia.md",
     "Directorios/bashrc.md",
+    "Directorios/Directorios Ocultos.md",
+    "bash",
+    "tmux/Comandos.md",
+    "tmux/Modo copia.md",
     "tmux",
     "Comandos/parrot-upgrade.md",
-    "Directorios/Directorios Ocultos.md",
     "Directorios/dev.md",
     "Directorios/Directorios.md",
     "Directorios/tmp.md",
@@ -259,15 +196,6 @@
     "Directorios/etc.md",
     "Directorios/sys.md",
     "Directorios/srv.md",
-    "Directorios/boot.md",
-    "Directorios/root.md",
-    "Directorios/home.md",
-    "Directorios/media.md",
-    "Directorios/lib64.md",
-    "Directorios/proc.md",
-    "Directorios/opt.md",
-    "Directorios/lib.md",
-    "Directorios/bin.md",
     "Permisos",
     "Comandos",
     "Directorios",

@@ -15,3 +15,4 @@ Los comandos ejecutan cosas papito:
 - [[SETCAP]] Nos permite agregar [[Capabilities]].
 - [[parrot-upgrade]] USAR PARA ACTUALIZAR.
 - [[TAIL]] Nos sirve para mostrar ciertas lineas.
+- [[HOSTNAME]] consulta el nombre y muestra el nombre del host.
