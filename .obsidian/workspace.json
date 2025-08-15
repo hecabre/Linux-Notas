@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bash/Instrucciones.md",
+                "file": "Ejercicios/Bash Ejercicio 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instrucciones"
+              "title": "Bash Ejercicio 2"
             }
           }
         ]
