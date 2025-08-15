@@ -14,3 +14,4 @@ Los comandos ejecutan cosas papito:
 - [[GETCAP]] Nos muestra las [[Capabilities]].
 - [[SETCAP]] Nos permite agregar [[Capabilities]].
 - [[parrot-upgrade]] USAR PARA ACTUALIZAR.
+- [[TAIL]] Nos sirve para mostrar ciertas lineas.
