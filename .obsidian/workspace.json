@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos/READ.md",
+                "file": "Ejercicios/Bash Ejercicio 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "READ"
+              "title": "Bash Ejercicio 2"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "57ae7121cf1e0b53",
   "lastOpenFiles": [
+    "Comandos/READ.md",
     "bash/Instrucciones.md",
     "Ejercicios/Bash Ejercicio 2.md",
     "tmux/tmux.md",
@@ -183,7 +184,6 @@
     "bash/while.md",
     "bash/for.md",
     "Comandos/XARGS.md",
-    "Comandos/READ.md",
     "Comandos/Comandos.md",
     "Comandos/HOSTNAME.md",
     "Comandos/TAIL.md",
