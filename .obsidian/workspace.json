@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8b85d1707750c39",
+        "id": "cd2cae66a0ef7b78",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc90de0159fb3c4",
+            "id": "57ae7121cf1e0b53",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios/Bash Ejercicio 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bash Ejercicio 2"
             }
           }
         ]
@@ -164,10 +168,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7cc90de0159fb3c4",
+  "active": "57ae7121cf1e0b53",
   "lastOpenFiles": [
-    "Ejercicios/Bash Ejercicio 2.md",
     "bash/Instrucciones.md",
+    "tmux/tmux.md",
+    "tmux/Modo copia.md",
+    "tmux/Comandos.md",
+    "Comandos/DUMP.md",
+    "Ejercicios/Bash Ejercicio 2.md",
     "bash/if.md",
     "Ejercicios/Bash Ejercicio 1.md",
     "Ejercicios",
@@ -180,12 +188,9 @@
     "Comandos/HOSTNAME.md",
     "Comandos/TAIL.md",
     "Comandos/FIND.md",
-    "tmux/tmux.md",
     "Directorios/bashrc.md",
     "Directorios/Directorios Ocultos.md",
     "bash",
-    "tmux/Comandos.md",
-    "tmux/Modo copia.md",
     "tmux",
     "Comandos/parrot-upgrade.md",
     "Directorios/dev.md",
@@ -195,7 +200,6 @@
     "Directorios/usr.md",
     "Directorios/etc.md",
     "Directorios/sys.md",
-    "Directorios/srv.md",
     "Permisos",
     "Comandos",
     "Directorios",
