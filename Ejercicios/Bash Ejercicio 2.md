@@ -9,3 +9,4 @@
 
 `done`
 `echo "Fin"`
+Password bandit game: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc lvl8
