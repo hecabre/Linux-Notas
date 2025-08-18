@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cron.md",
+                "file": "Ejercicios/Bash Ejercicio 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cron"
+              "title": "Bash Ejercicio 2"
             }
           }
         ],
@@ -199,21 +199,22 @@
   },
   "active": "9ad2581f8d6ff66a",
   "lastOpenFiles": [
+    "Comandos/CHATTR.md",
+    "bash/Instrucciones.md",
+    "bash/if.md",
+    "bash/for.md",
+    "bash/while.md",
+    "Comandos/cron.md",
     "Ejercicios/Bash Ejercicio 2.md",
-    "cron.md",
     "Ejercicios/Scaner Puertos.md",
     "Comandos/READ.md",
-    "bash/Instrucciones.md",
     "tmux/tmux.md",
     "tmux/Modo copia.md",
     "tmux/Comandos.md",
     "Comandos/DUMP.md",
-    "bash/if.md",
     "Ejercicios/Bash Ejercicio 1.md",
     "Ejercicios",
     "Sin nombre 1",
-    "bash/while.md",
-    "bash/for.md",
     "Comandos/XARGS.md",
     "Comandos/Comandos.md",
     "Comandos/HOSTNAME.md",
@@ -228,7 +229,6 @@
     "Directorios/Directorios.md",
     "Directorios/tmp.md",
     "Directorios/var.md",
-    "Directorios/usr.md",
     "Permisos",
     "Comandos",
     "Directorios",
