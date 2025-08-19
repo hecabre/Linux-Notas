@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios/Bash Ejercicio 2.md",
+                "file": "Directorios/Directorios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bash Ejercicio 2"
+              "title": "Directorios"
             }
           }
         ],
@@ -200,12 +200,15 @@
   },
   "active": "9ad2581f8d6ff66a",
   "lastOpenFiles": [
+    "Comandos/USERMOD.md",
+    "Comandos/GROUPADD.md",
+    "Directorios/Directorios.md",
+    "Ejercicios/Bash Ejercicio 2.md",
     "bash/for.md",
     "bash/if.md",
     "bash/Instrucciones.md",
     "bash/while.md",
     "Ejercicios/Scaner Puertos.md",
-    "Ejercicios/Bash Ejercicio 2.md",
     "Comandos/CHATTR.md",
     "Comandos/cron.md",
     "Comandos/READ.md",
@@ -227,9 +230,6 @@
     "tmux",
     "Comandos/parrot-upgrade.md",
     "Directorios/dev.md",
-    "Directorios/Directorios.md",
-    "Directorios/tmp.md",
-    "Directorios/var.md",
     "Permisos",
     "Comandos",
     "Directorios",
