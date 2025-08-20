@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directorios/Directorios.md",
+                "file": "Comandos/parrot-upgrade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Directorios"
+              "title": "parrot-upgrade"
             }
           }
         ],
@@ -200,9 +200,9 @@
   },
   "active": "9ad2581f8d6ff66a",
   "lastOpenFiles": [
+    "Directorios/Directorios.md",
     "Comandos/USERMOD.md",
     "Comandos/GROUPADD.md",
-    "Directorios/Directorios.md",
     "Ejercicios/Bash Ejercicio 2.md",
     "bash/for.md",
     "bash/if.md",
