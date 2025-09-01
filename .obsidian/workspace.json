@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIDR.md",
+                "file": "Ejercicio Mascara de Red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CIDR"
+              "title": "Ejercicio Mascara de Red"
             }
           }
         ],
@@ -210,9 +210,9 @@
   },
   "active": "2d504fbddfcfaa25",
   "lastOpenFiles": [
+    "Redes/CIDR.md",
     "Redes/Subnetting.md",
-    "CIDR.md",
-    "Sin título.md",
+    "Ejercicio Mascara de Red.md",
     "tmux/tmux.md",
     "Redes/Clase C.md",
     "Redes/Clase B.md",
