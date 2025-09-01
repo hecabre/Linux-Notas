@@ -1,0 +1,2 @@
+Es un metodo de asignacion de direcciones IP que permite dividir una direccion IP en una parte que identifica la red y otra que identifica el host. Esto se hace por medio de una mascara de red, que se representa en notacion CIDR como una direccion IP base seguida de un numero que indica la cantidad de bits que corresponden a la red.
+Con CIDR, se pueden asignar direcciones IP de forma mas precisa, lo que reduce la cantidad de direcciones IP desperdiciadas y facilita la administracion de la red.

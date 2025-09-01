@@ -1,1 +1,0 @@
-Dividir una red grande en una red mas chica.
