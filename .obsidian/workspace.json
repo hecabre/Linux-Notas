@@ -51,16 +51,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicio Mascara de Red.md",
+                "file": "Redes/Ejercicio Mascara de Red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Ejercicio Mascara de Red"
             }
+          },
+          {
+            "id": "8cefd6aaf163d8a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/Broadcast Address.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Broadcast Address"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,11 +222,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2d504fbddfcfaa25",
+  "active": "8cefd6aaf163d8a3",
   "lastOpenFiles": [
+    "Broadcast.md",
+    "Redes/Broadcast Address.md",
+    "Redes/Ejercicio Mascara de Red 1.md",
+    "Redes/Ejercicio Mascara de Red.md",
     "Redes/CIDR.md",
     "Redes/Subnetting.md",
-    "Ejercicio Mascara de Red.md",
     "tmux/tmux.md",
     "Redes/Clase C.md",
     "Redes/Clase B.md",
@@ -233,9 +250,6 @@
     "Ejercicios/Bash Ejercicio 2.md",
     "Redes/Capa 6.md",
     "Redes/Capa 1.md",
-    "Redes/Protocolos de puertos.md",
-    "Capas.md",
-    "Redes/UDP.md",
     "Redes",
     "Sin título.base",
     "Ejercicios",
