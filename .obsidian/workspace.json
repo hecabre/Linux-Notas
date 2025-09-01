@@ -139,16 +139,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Puertos.md",
+                "file": "Redes/Puertos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Puertos"
             }
+          },
+          {
+            "id": "55c9c0dbb7dafde6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/IPV6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IPV6"
+            }
+          },
+          {
+            "id": "5c1efc08201d4410",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modelo OSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelo OSI"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -296,16 +324,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6997369036770875",
+  "active": "5c1efc08201d4410",
   "lastOpenFiles": [
+    "Redes/IPV6.md",
+    "Modelo OSI.md",
+    "Redes/IPV4.md",
     "Redes/DHCP.md",
-    "Puertos.md",
+    "Redes/IPSEC.md",
+    "Redes/Protocolos de puertos.md",
+    "Redes/MAC.md",
+    "Redes/Puertos.md",
     "Redes/UDP.md",
     "Redes/TCP.md",
-    "Redes/MAC.md",
-    "Redes/IPSEC.md",
-    "Redes/IPV6.md",
-    "Redes/IPV4.md",
     "Ejercicios/Bash Ejercicio 2.md",
     "Redes",
     "Sin título.base",
@@ -324,8 +354,6 @@
     "tmux/tmux.md",
     "tmux/Modo copia.md",
     "tmux/Comandos.md",
-    "Comandos/DUMP.md",
-    "Ejercicios/Bash Ejercicio 1.md",
     "Ejercicios",
     "Sin nombre 1",
     "bash",

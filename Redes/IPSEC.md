@@ -9,4 +9,3 @@ AH(Authentication Header):
 ESP (Encapsulating Security Payload):
 - Autentica y cifra.
 - Oculta el contenido del paquete IP y asegura que nadie lo altere.
-- 
