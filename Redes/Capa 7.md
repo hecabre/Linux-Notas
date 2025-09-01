@@ -1,0 +1,1 @@
+Consumir los datos, transferir los datos, conectarnos de manera remota a otras maquinas. Aqui esta HTTP, FTP

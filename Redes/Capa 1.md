@@ -1,0 +1,1 @@
+Al querer enviar un correo, la capa fisica seria la carretera, o normalmente los cables de red, los datos se transfieren por los cables de red y se procesan en la siguiente capa.

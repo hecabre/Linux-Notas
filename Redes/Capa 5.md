@@ -1,0 +1,1 @@
+Establecer y terminar la conexion entre hosts, ademas de realizar el establecimiento de sesiones, brinda logs y realizacion de tareas de seguridad.

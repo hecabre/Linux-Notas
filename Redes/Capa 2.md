@@ -1,0 +1,1 @@
+Observa si el paquete tiene algun error en su formato y controla el flujo con el que se envian los paquetes, trata de ver si corrige los errores.
