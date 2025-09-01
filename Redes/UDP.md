@@ -1,4 +1,5 @@
 ### User Datagram Protocol
+Existen 65535 puertos. 
 Es un protocolo de TRANSPORTE, como [[TCP]] y tambien se usa sobre IP.
 Su caracteristica principal es que no garantiza la confibalidad ni orden.
 Los envia tal cual sin preocuparse si llegan o no ni en que orden.
