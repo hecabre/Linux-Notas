@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Ejercicio Mascara de Red 1.md",
+                "file": "Redes/MAC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicio Mascara de Red 1"
+              "title": "MAC"
             }
           }
         ],
@@ -200,7 +200,10 @@
   },
   "active": "8cefd6aaf163d8a3",
   "lastOpenFiles": [
+    "Redes/Modelo OSI.md",
     "Redes/Broadcast Address.md",
+    "Redes/Capa 3.md",
+    "Redes/MAC.md",
     "Redes/Ejercicio Mascara de Red 1.md",
     "Redes/Clase B.md",
     "Redes/Ejercicio Mascara de Red.md",
@@ -214,13 +217,10 @@
     "Redes/IPV6.md",
     "Redes/Capa 5.md",
     "Redes/Capa 4.md",
-    "Redes/Capa 3.md",
     "Redes/Capa 2.md",
-    "Redes/Modelo OSI.md",
     "Redes/Puertos.md",
     "Redes/DHCP.md",
     "Redes/TCP.md",
-    "Redes/MAC.md",
     "Redes/IPSEC.md",
     "Redes/IPV4.md",
     "Ejercicios/Bash Ejercicio 2.md",
