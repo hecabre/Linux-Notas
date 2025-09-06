@@ -1,3 +1,4 @@
+## `-sS`
 Es un escaneo o "half-open-scan". 
 1. nmap manda un paquete SYN para iniciar la conexion TCP al puerto objetivo
 2. Si la respuesta del puerto es SYN/ACK es un puerto abierto, nmap no completa el handshake corta con RST.

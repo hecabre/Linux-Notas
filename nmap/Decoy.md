@@ -1,0 +1,2 @@
+## `-D`
+Consiste en enviar paquetes falsos a la red para confundir a los sistemas de deteccion de intrusos y evitar la deteccion del firewall. El parametro -D permite al usuario enviar paquetes falsos junto con los paquetes reales de escaneo para ocultar su actividad

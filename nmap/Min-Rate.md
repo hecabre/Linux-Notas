@@ -1,0 +1,2 @@
+## `-min-rate`
+Permite al usuario controlar la velocidad de los paquetes enviados para evitar la deteccion del Firewall. El parametro -min-rate permite al usuario reducir la velocidad de los paquetes enviados para evitar ser detectado por el Firewall.

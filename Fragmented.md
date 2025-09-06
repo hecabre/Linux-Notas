@@ -1,0 +1,2 @@
+## `-f`
+Se basa en en fragmentar los paquetes enviados para que el firewall no pueda reconocer el trafico como un escaneo. EL parametro -f en [[nmap]]  nos permite fragmentar los paquetes y enviarlos por separado para evitar la deteccion del firewall.
