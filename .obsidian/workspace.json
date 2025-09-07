@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fragmented.md",
+                "file": "Uso de Scripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fragmented"
+              "title": "Uso de Scripts"
             }
           }
         ]
@@ -83,79 +83,10 @@
   "right": {
     "id": "bf5077f79fb6bf93",
     "type": "split",
-    "children": [
-      {
-        "id": "17cca826f832d181",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eac429ad5add66c2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Fragmented.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Fragmented"
-            }
-          },
-          {
-            "id": "6233dfe82d767dcd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Comandos.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Enlaces salientes de Comandos"
-            }
-          },
-          {
-            "id": "7bd95c5a71688f3a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "9f666b394f376c9a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Comandos.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de Comandos"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,9 +101,10 @@
   },
   "active": "630be6ee7ba2eba5",
   "lastOpenFiles": [
-    "nmap/Tecnicas de Evasion.md",
-    "Fragmented.md",
     "nmap/nmap.md",
+    "Uso de Scripts.md",
+    "Fragmented.md",
+    "nmap/Tecnicas de Evasion.md",
     "nmap/Min-Rate.md",
     "nmap/Decoy.md",
     "nmap/Spoof-MAC.md",
@@ -196,7 +128,6 @@
     "tmux/tmux.md",
     "Redes/Clase C.md",
     "Redes/Capa 7.md",
-    "Redes/IPV6.md",
     "Redes",
     "Sin título.base",
     "Ejercicios",
