@@ -2,5 +2,6 @@
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "accentColor": "#7ec495",
-  "textFontFamily": "Courier"
+  "textFontFamily": "Inter",
+  "interfaceFontFamily": "Inter"
 }
